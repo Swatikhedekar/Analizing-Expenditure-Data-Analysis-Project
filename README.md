@@ -1,7 +1,7 @@
 
 # Expenditure Data Analysis Project
 
-An Expenditure Data Analysisis the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India I
+An Expenditure Data Analysis is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India I
 have used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous performance history statewise in India.
 First extractt dataset, prepared data, clean ,load and transform into Power BI desktop Then creatind an interactive isightful dashboard and publish.
 
