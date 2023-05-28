@@ -1,6 +1,24 @@
 
 # Expenditure Data Analysis Project
+## Problem statement 
+No business can survive in this competitive market without 
+managing their cost. It does not matter if revenues are high but if 
+cost is higher it is a red flag. So you are tasked to help 
+management in creating and establishing new structure and 
+models to reduce cost.
+Do ETL : Extract-Transform-Load the dataset and find for me 
+some information from this large data. This is form of data mining.
+The dataset as listed on NITI Aayog website from 1980_81 to 2015_16
+What all information can be achieved by mining this data, would be
+brainstormed by the interns
+Find key metrics and factors and show the meaningful relationships between attributes. 
+Do your own research and come up with your findings.
 
+## Dataset:
+You can find the dataset on the given link
+https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp
+
+## Introduction 
 An Expenditure Data Analysis is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India.I
 used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous performance history statewise in India.
 First extractt dataset, prepared data, clean ,load and transform into Power BI desktop Then creating an interactive isightful dashboard and publish on novypro.
