@@ -19,9 +19,8 @@ You can find the dataset on the given link
 https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp
 
 ## Introduction 
-An Expenditure Data Analysis is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India.I
-used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous performance history statewise in India.
-First extractt dataset, prepared data, clean ,load and transform into Power BI desktop Then creating an interactive isightful dashboard and publish on novypro.
+An Expenditure Data Analysis is the project related to Exploratory data analysis(EDA)and Data visualization of expenditure dataset from NITI Aayog of India. I used python libraries to get expenditure information, visualize different aspects of it, and finally I worked at a few ways of analyzing the spending of expenditure based on its previous performance history statewise in India.
+First extract dataset, prepared data, clean ,load and transform into Power BI desktop Then creating an interactive insightfull dashboard and publish on novypro. To make prediction and better decision.
 
 ## Acknowledgements
 
